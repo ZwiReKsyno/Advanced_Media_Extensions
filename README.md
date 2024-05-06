@@ -30,6 +30,8 @@
 - Вам придется перезапускать патчер каждый раз при обновлении VideoStation, Advanced Media Extensions и DSM.
 
 # ИСПОЛЬЗОВАНИЕ:
-Команда установки: 
-- `bash -c "$(curl "https://raw.githubusercontent.com/ZwiReKsyno/Advanced_Media_Extensions/main/installer.sh")"`
+Команда установки:
+```
+ `bash -c "$(curl "https://raw.githubusercontent.com/ZwiReKsyno/Advanced_Media_Extensions/main/installer.sh")"`
+```
 
