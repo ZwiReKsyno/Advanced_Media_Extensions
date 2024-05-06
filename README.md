@@ -32,6 +32,6 @@
 # ИСПОЛЬЗОВАНИЕ:
 Команда установки:
 ```
- `bash -c "$(curl "https://raw.githubusercontent.com/ZwiReKsyno/Advanced_Media_Extensions/main/installer.sh")"`
+ bash -c "$(curl "https://raw.githubusercontent.com/ZwiReKsyno/Advanced_Media_Extensions/main/installer.sh")"
 ```
 
